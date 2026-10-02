@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+supplier_agent.db
+*.sqlite
+.chroma/
+uploads/
+node_modules/
+.next/
+out/
+dist/
+build/
+.DS_Store
